@@ -4,10 +4,10 @@
 
 In order to run this script you'll need the following:
 
-  *pip
-  *python(2.7 minimum)
-  *praw
-  *argparse
+  * pip
+  * python(2.7 minimum)
+  * praw
+  * argparse
 
 ## Usage - flairs
 
