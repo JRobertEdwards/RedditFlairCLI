@@ -9,6 +9,9 @@ In order to run this script you'll need the following:
   * praw
   * argparse
 
+## Clone
+
+git clone https://github.com/JRobertEdwards/RedditFlairCLI.git
 ## Usage - flairs
 
 The functionality of this script is to allow you to search your own moderated subreddit for flairs that are defined by you.
