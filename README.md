@@ -1,5 +1,5 @@
 # RedditFlairCLI
-=========
+
 ## Requirements 
 
 In order to run this script you'll need the following:
