@@ -2,11 +2,11 @@ import praw, pprint, argparse
 
 
 
-reddit = praw.Reddit(client_id = 'rSQh6hxLj0xHuA',
-                     client_secret = 'h2HaiKb5phWCbbEevm_1hhtwiAQ',
-                     username='FighterzBPModerator',
-                     password='thisisapythonscript01',
-                     user_agent='FighterzRankBot')
+reddit = praw.Reddit(client_id = '<>',
+                     client_secret = '<>',
+                     username='<>',
+                     password='<>',
+                     user_agent='<>')
 
 
 
