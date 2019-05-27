@@ -8,6 +8,7 @@ In order to run this script you'll need the following:
   * python(2.7 minimum)
   * praw
   * argparse
+  * a reddit.py file that has your own Reddit user developer credentials set. You can find out how to do this at: https://github.com/reddit-archive/reddit/wiki/OAuth2-Quick-Start-Example#first-steps and https://praw.readthedocs.io/en/latest/getting_started/quick_start.html
 
 ## Clone
 
